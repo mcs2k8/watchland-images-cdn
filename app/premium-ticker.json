@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": 1791187350557,
+ "updated_at": 1791273729667,
  "lifetime_count": 0,
  "premium_count": 56,
  "items": [
@@ -136,7 +136,7 @@
   },
   {
    "plan": "premium",
-   "country": null,
+   "country": "DE",
    "since": null
   },
   {
