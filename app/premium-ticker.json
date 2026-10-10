@@ -1,288 +1,102 @@
 {
- "version": 1,
- "updated_at": 1791619451325,
- "lifetime_count": 0,
- "premium_count": 56,
+ "version": 2,
+ "updated_at": 1791663451013,
+ "source": "play_sales",
+ "lifetime_count": 1,
+ "premium_count": 18,
+ "joined_30d": 0,
  "items": [
   {
-   "plan": "premium",
-   "country": null,
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": "IN",
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": null,
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": null,
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": null,
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": null,
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": "NL",
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": null,
-   "since": null
-  },
-  {
-   "plan": "premium",
+   "plan": "monthly",
+   "kind": "renewed",
    "country": "US",
-   "since": null
+   "since": 1791417600000
   },
   {
-   "plan": "premium",
-   "country": "US",
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": "US",
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": null,
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": "KR",
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": null,
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": "US",
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": "GB",
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": "GB",
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": null,
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": "CA",
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": null,
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": "CA",
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": null,
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": null,
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": null,
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": null,
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": "SE",
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": "DE",
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": "SG",
-   "since": null
-  },
-  {
-   "plan": "premium",
+   "plan": "monthly",
+   "kind": "renewed",
    "country": "AR",
-   "since": null
+   "since": 1791244800000
   },
   {
-   "plan": "premium",
-   "country": null,
-   "since": null
+   "plan": "monthly",
+   "kind": "renewed",
+   "country": "GB",
+   "since": 1789948800000
   },
   {
-   "plan": "premium",
-   "country": "SE",
-   "since": null
+   "plan": "monthly",
+   "kind": "renewed",
+   "country": "KR",
+   "since": 1789776000000
   },
   {
-   "plan": "premium",
-   "country": "CA",
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": null,
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": null,
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": null,
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": null,
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": "AE",
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": null,
-   "since": null
-  },
-  {
-   "plan": "premium",
+   "plan": "yearly",
+   "kind": "renewed",
    "country": "US",
-   "since": null
+   "since": 1785801600000
   },
   {
-   "plan": "premium",
-   "country": null,
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": null,
-   "since": null
-  },
-  {
-   "plan": "premium",
+   "plan": "lifetime",
+   "kind": "joined",
    "country": "US",
-   "since": null
+   "since": 1783555200000
   },
   {
-   "plan": "premium",
-   "country": null,
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": "CA",
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": null,
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": null,
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": "PR",
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": "IN",
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": null,
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": null,
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": null,
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": null,
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": "US",
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": "IN",
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": null,
-   "since": null
-  },
-  {
-   "plan": "premium",
-   "country": "CA",
-   "since": null
+   "plan": "monthly",
+   "kind": "joined",
+   "country": "KR",
+   "since": 1781827200000
   }
- ]
+ ],
+ "country_names": {
+  "US": {
+   "en": "United States",
+   "ar": "الولايات المتحدة",
+   "de": "Vereinigte Staaten",
+   "es": "Estados Unidos",
+   "fr": "États-Unis",
+   "hi": "संयुक्त राज्य",
+   "ja": "アメリカ合衆国",
+   "pt": "Estados Unidos",
+   "ru": "Соединенные Штаты",
+   "zh": "美国"
+  },
+  "AR": {
+   "en": "Argentina",
+   "ar": "الأرجنتين",
+   "de": "Argentinien",
+   "es": "Argentina",
+   "fr": "Argentine",
+   "hi": "अर्जेंटीना",
+   "ja": "アルゼンチン",
+   "pt": "Argentina",
+   "ru": "Аргентина",
+   "zh": "阿根廷"
+  },
+  "GB": {
+   "en": "United Kingdom",
+   "ar": "المملكة المتحدة",
+   "de": "Vereinigtes Königreich",
+   "es": "Reino Unido",
+   "fr": "Royaume-Uni",
+   "hi": "यूनाइटेड किंगडम",
+   "ja": "イギリス",
+   "pt": "Reino Unido",
+   "ru": "Великобритания",
+   "zh": "英国"
+  },
+  "KR": {
+   "en": "South Korea",
+   "ar": "كوريا الجنوبية",
+   "de": "Südkorea",
+   "es": "Corea del Sur",
+   "fr": "Corée du Sud",
+   "hi": "दक्षिण कोरिया",
+   "ja": "韓国",
+   "pt": "Coreia do Sul",
+   "ru": "Республика Корея",
+   "zh": "韩国"
+  }
+ }
 }
