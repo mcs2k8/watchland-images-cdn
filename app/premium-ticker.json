@@ -1,6 +1,6 @@
 {
  "version": 2,
- "updated_at": 1792138193346,
+ "updated_at": 1792224593841,
  "source": "play_sales",
  "lifetime_count": 1,
  "premium_count": 18,
@@ -41,12 +41,6 @@
    "kind": "joined",
    "country": "US",
    "since": 1783555200000
-  },
-  {
-   "plan": "monthly",
-   "kind": "joined",
-   "country": "KR",
-   "since": 1781827200000
   }
  ],
  "country_names": {
