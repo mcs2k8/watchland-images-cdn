@@ -1,10 +1,10 @@
 {
  "version": 2,
- "updated_at": 1793002035478,
+ "updated_at": 1793088463974,
  "source": "play_sales",
  "lifetime_count": 1,
  "premium_count": 0,
- "paying_supporters": 18,
+ "paying_supporters": 19,
  "community": {
   "accounts": 2299,
   "downloads": 11660,
@@ -13,10 +13,16 @@
  "joined_30d": 0,
  "items": [
   {
+   "plan": "yearly",
+   "kind": "renewed",
+   "country": "JP",
+   "since": 1792972800000
+  },
+  {
    "plan": "monthly",
    "kind": "renewed",
    "country": "US",
-   "since": 1792886400000
+   "since": 1792972800000
   },
   {
    "plan": "monthly",
@@ -38,6 +44,18 @@
   }
  ],
  "country_names": {
+  "JP": {
+   "en": "Japan",
+   "ar": "اليابان",
+   "de": "Japan",
+   "es": "Japón",
+   "fr": "Japon",
+   "hi": "जापान",
+   "ja": "日本",
+   "pt": "Japão",
+   "ru": "Япония",
+   "zh": "日本"
+  },
   "US": {
    "en": "United States",
    "ar": "الولايات المتحدة",
