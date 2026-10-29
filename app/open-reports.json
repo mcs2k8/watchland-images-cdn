@@ -1,8 +1,12 @@
 {
  "version": 1,
- "updated_at": 1793178373600,
- "open_count": 2,
+ "updated_at": 1793264870589,
+ "open_count": 3,
  "faces": {
+  "e5899ad4-6bdf-4177-9784-da8c65dc69ea": {
+   "open": 1,
+   "latest": 1793199495000
+  },
   "e95b23cd-8447-4da1-bac7-3535d0a9d927": {
    "open": 1,
    "latest": 1793129151000
