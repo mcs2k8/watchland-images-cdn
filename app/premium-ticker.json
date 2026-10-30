@@ -1,27 +1,27 @@
 {
  "version": 2,
- "updated_at": 1793261272185,
+ "updated_at": 1793347553229,
  "source": "play_sales",
  "lifetime_count": 1,
  "premium_count": 0,
  "paying_supporters": 18,
  "community": {
-  "accounts": 2307,
-  "downloads": 11692,
+  "accounts": 2327,
+  "downloads": 11809,
   "countries": 88
  },
  "joined_30d": 0,
  "items": [
   {
-   "plan": "yearly",
-   "kind": "renewed",
-   "country": "JP",
-   "since": 1792972800000
-  },
-  {
    "plan": "monthly",
    "kind": "renewed",
    "country": "US",
+   "since": 1793232000000
+  },
+  {
+   "plan": "yearly",
+   "kind": "renewed",
+   "country": "JP",
    "since": 1792972800000
   },
   {
@@ -44,18 +44,6 @@
   }
  ],
  "country_names": {
-  "JP": {
-   "en": "Japan",
-   "ar": "اليابان",
-   "de": "Japan",
-   "es": "Japón",
-   "fr": "Japon",
-   "hi": "जापान",
-   "ja": "日本",
-   "pt": "Japão",
-   "ru": "Япония",
-   "zh": "日本"
-  },
   "US": {
    "en": "United States",
    "ar": "الولايات المتحدة",
@@ -67,6 +55,18 @@
    "pt": "Estados Unidos",
    "ru": "Соединенные Штаты",
    "zh": "美国"
+  },
+  "JP": {
+   "en": "Japan",
+   "ar": "اليابان",
+   "de": "Japan",
+   "es": "Japón",
+   "fr": "Japon",
+   "hi": "जापान",
+   "ja": "日本",
+   "pt": "Japão",
+   "ru": "Япония",
+   "zh": "日本"
   },
   "GB": {
    "en": "United Kingdom",
