@@ -1,13 +1,13 @@
 {
  "version": 2,
- "updated_at": 1793524124874,
+ "updated_at": 1793610298449,
  "source": "play_sales",
  "lifetime_count": 1,
  "premium_count": 0,
- "paying_supporters": 18,
+ "paying_supporters": 19,
  "community": {
-  "accounts": 2336,
-  "downloads": 11866,
+  "accounts": 2350,
+  "downloads": 12017,
   "countries": 90
  },
  "joined_30d": 0,
@@ -16,7 +16,7 @@
    "plan": "monthly",
    "kind": "renewed",
    "country": "US",
-   "since": 1793232000000
+   "since": 1793491200000
   },
   {
    "plan": "yearly",
