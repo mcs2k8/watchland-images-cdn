@@ -1,13 +1,13 @@
 {
  "version": 2,
- "updated_at": 1794084399393,
+ "updated_at": 1794165300445,
  "source": "play_sales",
  "lifetime_count": 0,
  "premium_count": 0,
- "paying_supporters": 20,
+ "paying_supporters": 21,
  "community": {
-  "accounts": 2398,
-  "downloads": 12194,
+  "accounts": 2407,
+  "downloads": 12253,
   "countries": 92
  },
  "joined_30d": 0,
@@ -15,14 +15,14 @@
   {
    "plan": "monthly",
    "kind": "renewed",
-   "country": "AR",
-   "since": 1793750400000
+   "country": "US",
+   "since": 1794096000000
   },
   {
    "plan": "monthly",
    "kind": "renewed",
-   "country": "US",
-   "since": 1793491200000
+   "country": "AR",
+   "since": 1793750400000
   },
   {
    "plan": "yearly",
@@ -44,18 +44,6 @@
   }
  ],
  "country_names": {
-  "AR": {
-   "en": "Argentina",
-   "ar": "الأرجنتين",
-   "de": "Argentinien",
-   "es": "Argentina",
-   "fr": "Argentine",
-   "hi": "अर्जेंटीना",
-   "ja": "アルゼンチン",
-   "pt": "Argentina",
-   "ru": "Аргентина",
-   "zh": "阿根廷"
-  },
   "US": {
    "en": "United States",
    "ar": "الولايات المتحدة",
@@ -67,6 +55,18 @@
    "pt": "Estados Unidos",
    "ru": "Соединенные Штаты",
    "zh": "美国"
+  },
+  "AR": {
+   "en": "Argentina",
+   "ar": "الأرجنتين",
+   "de": "Argentinien",
+   "es": "Argentina",
+   "fr": "Argentine",
+   "hi": "अर्जेंटीना",
+   "ja": "アルゼンチン",
+   "pt": "Argentina",
+   "ru": "Аргентина",
+   "zh": "阿根廷"
   },
   "JP": {
    "en": "Japan",
