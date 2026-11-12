@@ -1,6 +1,6 @@
 {
  "version": 2,
- "updated_at": 1794362693897,
+ "updated_at": 1794449077140,
  "source": "play_sales",
  "lifetime_count": 0,
  "premium_count": 0,
@@ -12,6 +12,12 @@
  },
  "joined_30d": 0,
  "items": [
+  {
+   "plan": "yearly",
+   "kind": "renewed",
+   "country": "MX",
+   "since": 1794355200000
+  },
   {
    "plan": "monthly",
    "kind": "renewed",
@@ -44,6 +50,18 @@
   }
  ],
  "country_names": {
+  "MX": {
+   "en": "Mexico",
+   "ar": "المكسيك",
+   "de": "Mexiko",
+   "es": "México",
+   "fr": "Mexique",
+   "hi": "मैक्सिको",
+   "ja": "メキシコ",
+   "pt": "México",
+   "ru": "Мексика",
+   "zh": "墨西哥"
+  },
   "US": {
    "en": "United States",
    "ar": "الولايات المتحدة",
