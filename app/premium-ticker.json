@@ -1,28 +1,28 @@
 {
  "version": 2,
- "updated_at": 1794449077140,
+ "updated_at": 1794535570630,
  "source": "play_sales",
  "lifetime_count": 0,
  "premium_count": 0,
- "paying_supporters": 21,
+ "paying_supporters": 22,
  "community": {
-  "accounts": 2421,
-  "downloads": 12386,
+  "accounts": 2445,
+  "downloads": 12501,
   "countries": 94
  },
  "joined_30d": 0,
  "items": [
   {
+   "plan": "monthly",
+   "kind": "renewed",
+   "country": "US",
+   "since": 1794528000000
+  },
+  {
    "plan": "yearly",
    "kind": "renewed",
    "country": "MX",
    "since": 1794355200000
-  },
-  {
-   "plan": "monthly",
-   "kind": "renewed",
-   "country": "US",
-   "since": 1794096000000
   },
   {
    "plan": "monthly",
@@ -50,18 +50,6 @@
   }
  ],
  "country_names": {
-  "MX": {
-   "en": "Mexico",
-   "ar": "المكسيك",
-   "de": "Mexiko",
-   "es": "México",
-   "fr": "Mexique",
-   "hi": "मैक्सिको",
-   "ja": "メキシコ",
-   "pt": "México",
-   "ru": "Мексика",
-   "zh": "墨西哥"
-  },
   "US": {
    "en": "United States",
    "ar": "الولايات المتحدة",
@@ -73,6 +61,18 @@
    "pt": "Estados Unidos",
    "ru": "Соединенные Штаты",
    "zh": "美国"
+  },
+  "MX": {
+   "en": "Mexico",
+   "ar": "المكسيك",
+   "de": "Mexiko",
+   "es": "México",
+   "fr": "Mexique",
+   "hi": "मैक्सिको",
+   "ja": "メキシコ",
+   "pt": "México",
+   "ru": "Мексика",
+   "zh": "墨西哥"
   },
   "AR": {
    "en": "Argentina",
